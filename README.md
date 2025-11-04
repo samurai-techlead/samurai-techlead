@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
+[![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)]()
 👋 Hi there! I'm a...
 - Full Stack Developer | Blockchain Enthusiast | AI Specialist | Gamer | Trader
 

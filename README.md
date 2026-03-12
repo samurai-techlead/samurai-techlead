@@ -11,4 +11,4 @@
 - **Blockchain**: Ethereum, Solana, CosmosSDK, Solidity, Rust, Smart Contracts, Web3 Integration  
 - **DevOps & Cloud**: AWS, GCP, CI/CD, Docker, Kubernetes , RunPod 
 - **Databases**: PostgreSQL, MySQL, MongoDB
-- **Others**:3D Game, GIS, Modelling automation, etc.
+- **Others**:3D Game, GIS, Modelling automation, Three.js, WebGL, etc.

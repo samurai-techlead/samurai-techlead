@@ -7,7 +7,8 @@
 ## Skills
 - **Frontend**: React, Next.js, Vue.js, JavaScript, TypeScript  
 - **Backend**: Node.js, FastAPI, Nest.js, Django, Go, PHP
-- **AI & Data Tools**: PyTorch, LLM, LangChain, RAG, GPT, Pinecone, Jupyter Notebook  
+- **AI & Data Tools**: PyTorch, LLM, LangChain, RAG, GPT, Pinecone, Jupyter Notebook, Stable Diffusion, OpenAI API
 - **Blockchain**: Ethereum, Solana, CosmosSDK, Solidity, Rust, Smart Contracts, Web3 Integration  
-- **DevOps & Cloud**: AWS, GCP, CI/CD, Docker, Kubernetes  
+- **DevOps & Cloud**: AWS, GCP, CI/CD, Docker, Kubernetes , RunPod 
 - **Databases**: PostgreSQL, MySQL, MongoDB
+- **Others**:3D Game, GIS, Modelling automation, etc.
